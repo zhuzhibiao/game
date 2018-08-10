@@ -62,6 +62,6 @@ window.onload = function(){
     game.jf = document.querySelector(".jf");
     game.death = death;
     game.init();
-    game.createLetter(6);
+    game.createLetter(5);
     // game.down();
 }
